@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 72,
+        "name": "browser closed",
+        "description": "",
+        "id": "free-crm-application-testing;browser-closed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 218846700,
+              "status": "passed"
+            },
+            "line": 73,
+            "name": "This is a close broswer test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_close_broswer_test()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Free CRM application testing",
+    "description": "",
+    "id": "free-crm-application-testing",
+    "keyword": "Feature",
+    "uri": "src/test/java/Feature/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
